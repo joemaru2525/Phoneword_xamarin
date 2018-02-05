@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{991A4D77-6C9F-4E55-BB71-04D8B645E2FF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword/MainPage.xaml">
+    <Files>
+      <File FileName="Phoneword/MainPage.xaml" Line="18" Column="1" />
+      <File FileName="Phoneword/MainPage.xaml.cs" Line="44" Column="2" />
+      <File FileName="Phoneword/App.xaml.cs" Line="30" Column="2" />
+      <File FileName="Phoneword/PhoneTranslator.cs" Line="51" Column="2" />
+      <File FileName="Phoneword/IDialer.cs" Line="7" Column="2" />
+      <File FileName="iOS/PhoneDialer.cs" Line="17" Column="2" />
+      <File FileName="Droid/PhoneDialer.cs" Line="45" Column="2" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="6" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Phoneword.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E6DA1DDE-4258-42EE-B6B3-386208F940FF">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Phoneword.iOS>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Phoneword.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
